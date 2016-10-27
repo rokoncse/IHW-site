@@ -1,0 +1,14 @@
+#ext_menu-2 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-2.mbr-navbar--stuck .mbr-navbar__section {
+	background:#f1f1f1;
+  height: 70px;
+  margin-top: 0px;
+}
+#ext_menu-2 .mbr-navbar__section {
+	background:#000;
+	
+#ext_menu-2 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
